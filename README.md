@@ -53,4 +53,4 @@ This project is for educational and portfolio showcasing purposes.
 
 ## Screenshot
 
-Dashboard preview()
+Dashboard preview(https://github.com/AntonAbhisheik/IPL-2008-to-2025--Analysis/blob/main/Screenshot%202025-06-23%20174731.png)
