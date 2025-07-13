@@ -1,4 +1,4 @@
-# 🏏 IPL-2008-to-2025--Analysis (Power BI + MySQL)
+# 🏏 IPL-Analysis (MySQL + Power BI)
 
 This project presents an interactive **IPL 2025 performance insights dashboard** created in **Power BI** with a live connection to a **MySQL Workbench database**.
 
