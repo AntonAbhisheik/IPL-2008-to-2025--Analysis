@@ -7,9 +7,9 @@ This project presents an interactive **IPL Analysis dashboard** created in **Pow
 ## 📂 Project Files
 
 - **IPL Insights.pbix** — Power BI report file with interactive visuals.
-- **ipl_database.sql** — (if applicable) MySQL database creation and data insertion script.
-- **ipl_data.csv** — (if applicable) Source data for the database.
-
+- **ipl_matches_MySQLdata.csv** — Source data for the database.
+- **players_MySQLdata.csv** —  Source data for the database.
+- **teams_data_MySQLdata.csv** — Source data for the database.
 ---
 
 ## 📊 Key Insights Covered
