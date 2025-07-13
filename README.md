@@ -43,7 +43,7 @@ This project presents an interactive **IPL Analysis dashboard** created in **Pow
 
 **Anton Abhisheik**
 
-Connect with me on [LinkedIn](www.linkedin.com/in/anton-abhisheik) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anton-abhisheik/) 
 
 ---
 
@@ -53,4 +53,4 @@ This project is for educational and portfolio showcasing purposes.
 
 ## Screenshot
 
-Dashboard preview(DASHBOARD.png)
+Dashboard preview(https://github.com/AntonAbhisheik/IPL-Analysis/blob/main/DASHBOARD.png)
