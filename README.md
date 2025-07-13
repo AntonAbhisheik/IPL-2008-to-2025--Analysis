@@ -1,6 +1,6 @@
 # 🏏 IPL-Analysis (MySQL + Power BI)
 
-This project presents an interactive **IPL 2025 performance insights dashboard** created in **Power BI** with a live connection to a **MySQL Workbench database**.
+This project presents an interactive **IPL Analysis dashboard** created in **Power BI** with a live connection to a **MySQL Workbench database**.
 
 ---
 
@@ -33,7 +33,7 @@ This project presents an interactive **IPL 2025 performance insights dashboard**
 ## 📌 How to Use
 
 1. Install **MySQL Workbench** and set up the IPL database using the provided SQL or CSV file.
-2. Open `IPL Insights.pbix` in **Power BI Desktop**.
+2. Open 'IPL Analysis.pbi' in **Power BI Desktop**.
 3. In **Power BI**, go to **Transform Data** → **Data source settings** and update the MySQL server name, database, username, and password.
 4. Refresh the data to load insights.
 
